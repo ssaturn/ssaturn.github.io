@@ -28,7 +28,7 @@ layout: page
 
 {% assign default_beg = offset | minus: pinned.size %}
 
-{% if default_beg < 0 %}
+{% if default_beg > 0 %}
   {% assign default_beg = 0 %}
 {% endif %}
 
