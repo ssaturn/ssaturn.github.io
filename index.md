@@ -1,4 +1,26 @@
-## Welcome to GitHub Pages
+# Min-wook Yoon 
+
+Birth of Data : November 25, 1979
+Mobile No. | Email : john.minuk.yun@gmail.com
+
+
+## Education
+[Dates of attendance]
+[School Name]
+## Professional Experience
+[Dates of employment]
+```[Orgnization Name]
+[Job Title]
+- [Job responsibility/archivement]
+```
+```
+[Dates of employment] [Job Title]
+```
+
+## Skills
+
+
+
 
 You can use the [editor on GitHub](https://github.com/ssaturn/ssaturn.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
