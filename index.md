@@ -1,5 +1,4 @@
-# Min-wook Yoon 
-
+#Min-wook Yoon
 Birth of Data : November 25, 1979
 Mobile No. | Email : john.minuk.yun@gmail.com
 
@@ -8,13 +7,20 @@ Mobile No. | Email : john.minuk.yun@gmail.com
 [Dates of attendance]
 [School Name]
 ## Professional Experience
-[Dates of employment]
-```[Orgnization Name]
-[Job Title]
+
+```markdown
+[Webzen]
 - [Job responsibility/archivement]
 ```
+
+```markdown
+[Nexon Korea] | [TalesM]
 ```
-[Dates of employment] [Job Title]
+```markdown
+[Krafton] | [Tera]
+```
+```markdown
+[Gamevil] | [Lean Studio]
 ```
 
 ## Skills
